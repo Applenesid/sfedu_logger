@@ -1,2 +1,12 @@
-# sfedu_logger
-A bot logger for tracking changes in the BRS of the Southern Federal University (SFedU)
+# БОТ-ЛОГГЕР БРС ЮФУ
+Бот-логгер для отслеживания изменений в БРС ЮФУ
+
+Перед началом работы вставьте в файл **settings.py** необходимые данные!
+
+**logger.py** — бот-логгер БРС ЮФУ
+**load.py** — код для добавления нового пользователя в базу данных
+**create_bd.py** — код для создания базы данных под бота
+**settings.py** — настройки
+
+Статья о создании бота: telegra.ph/BOT-LOGGER-BRS-YUFU-05-11
+Связь со мной: t.me/applenesid
